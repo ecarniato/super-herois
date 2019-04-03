@@ -1,0 +1,32 @@
+header {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: #40c76d;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    border-bottom: 5px solid black;
+    padding: 20px;
+    box-shadow: 6px 6px 20px lightgrey;
+    margin-bottom: 20px;
+}
+
+.marvel-logo{
+    box-sizing: border-box;
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin-right: 20px;
+}
+
+.subtitulo {
+    position: relative;
+    top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.marvel {
+    width: 200%;
+    height: 200%;
+}
